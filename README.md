@@ -14,6 +14,25 @@ save the children. On their road to the mountain, they face many dificulties.Hel
 <img width="1920" height="1028" alt="4" src="https://github.com/user-attachments/assets/05ca3822-dd87-4e35-b9dd-65f631c7b9cf" />
 <img width="1920" height="1030" alt="3" src="https://github.com/user-attachments/assets/33a1b1ce-393f-42cf-8968-c857c5565eb4" />
 
-##
+## Authors
+Contributors names and contact info
+
+RONEL TCHOULAYEU :Author [@jordanprog86] (https://the-mainthread-jordan.jimdosite.com/) jordanprog@yahoo.fr
+## Version History 
+- 1.0 Beta Version
+
+## Help and Contact
+In case you encounter any issue, do not hesitate to write us.
+jordanprog@yahoo.fr
+rtechtrainingcenter@gmail.com
+
+## Donate
+Paypal : sylvaniabedji4@gmail.com
+Orange Money : 00237655275109
+
+## Licence
+This project is licensed under the LGPL-3.0 License
+## Download
+Download the beta version here. Avalaible only on windows
 
 
