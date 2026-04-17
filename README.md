@@ -17,8 +17,8 @@ save the children. On their road to the mountain, they face many dificulties.Hel
 ## Authors
 Contributors names and contact info
 
-RONEL TCHOULAYEU :Author [@jordanprog86] (https://the-mainthread-jordan.jimdosite.com/) jordanprog@yahoo.fr
-C++ and Embedded Developer
+- RONEL TCHOULAYEU :Author [@jordanprog86] (https://the-mainthread-jordan.jimdosite.com/) jordanprog@yahoo.fr
+ C++ and Embedded Developer
 ## Version History 
 - 1.0 Beta Version
 
