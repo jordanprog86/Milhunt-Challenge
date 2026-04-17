@@ -18,6 +18,7 @@ save the children. On their road to the mountain, they face many dificulties.Hel
 Contributors names and contact info
 
 RONEL TCHOULAYEU :Author [@jordanprog86] (https://the-mainthread-jordan.jimdosite.com/) jordanprog@yahoo.fr
+C++ and Embedded Developer
 ## Version History 
 - 1.0 Beta Version
 
@@ -37,5 +38,6 @@ In case you encounter any issue, do not hesitate to write us.
 This project is licensed under the LGPL-3.0 License
 ## Download
 Download the beta version here. Available only on windows
+https://drive.google.com/file/d/1ses-gKxzmgTgsYZWYaflKXZ9bAmp9NHW/view?usp=sharing
 
 
