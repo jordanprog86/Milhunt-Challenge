@@ -27,10 +27,10 @@ In case you encounter any issue, do not hesitate to write us.
 - rtechtrainingcenter@gmail.com
 
 ## Donate
--<img width="96" height="96" alt="paypal_96px" src="https://github.com/user-attachments/assets/83fc2719-663e-4deb-a808-5ed589412be1" />
- Paypal : sylvaniabedji4@gmail.com
--<img width="96" height="80" alt="om" src="https://github.com/user-attachments/assets/22049b84-5eea-450a-afff-34d761e76b35" />
- Orange Money : 00237655275109
+<img width="96" height="96" alt="paypal_96px" src="https://github.com/user-attachments/assets/83fc2719-663e-4deb-a808-5ed589412be1" />
+  Paypal : sylvaniabedji4@gmail.com
+<img width="96" height="80" alt="om" src="https://github.com/user-attachments/assets/22049b84-5eea-450a-afff-34d761e76b35" />
+  Orange Money : 00237655275109
 
 ## Licence
 This project is licensed under the LGPL-3.0 License
