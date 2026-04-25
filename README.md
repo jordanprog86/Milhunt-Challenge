@@ -50,7 +50,8 @@ In case you encounter any issue, do not hesitate to write us.
 ## Licence
 This project is licensed under the LGPL-3.0 License
 ## Download
-Download the beta version here. Available only on windows
-https://drive.google.com/file/d/1ses-gKxzmgTgsYZWYaflKXZ9bAmp9NHW/view?usp=sharing
+Download the beta version here.
+- windows
+https://drive.google.com/file/d/1Cif-VRQEMaUknAK18-6bjDdX2hMZwiwD/view?usp=sharing
 
 
