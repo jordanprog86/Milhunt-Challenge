@@ -13,6 +13,10 @@ save the children. On their road to the mountain, they face many dificulties.Hel
 <img width="1917" height="1028" alt="home" src="https://github.com/user-attachments/assets/a55df915-5230-4fd6-87db-ab39869f1243" />
 <img width="1920" height="1028" alt="4" src="https://github.com/user-attachments/assets/05ca3822-dd87-4e35-b9dd-65f631c7b9cf" />
 <img width="1920" height="1030" alt="3" src="https://github.com/user-attachments/assets/33a1b1ce-393f-42cf-8968-c857c5565eb4" />
+<img width="1920" height="1030" alt="donate" src="https://github.com/user-attachments/assets/ea1fc467-6380-468c-970a-1a53370cafb9" />
+<img width="1920" height="1030" alt="how to play" src="https://github.com/user-attachments/assets/c8f2edb9-0835-4894-8f85-b20a3f127d22" />
+<img width="1920" height="1030" alt="History" src="https://github.com/user-attachments/assets/164b494e-62c5-43d7-9b61-d3511320ddd8" />
+<img width="1920" height="1030" alt="score" src="https://github.com/user-attachments/assets/101b1605-59ab-487a-9219-db10acabb624" />
 
 ## Rules
 - A bottle of Milk gives you 20 points
