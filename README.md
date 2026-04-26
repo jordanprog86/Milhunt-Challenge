@@ -27,6 +27,8 @@ save the children. On their road to the mountain, they face many dificulties.Hel
 - the Star makes you unvulnerable during a certain time
 - the Heart increase your lives
 - the Fire kills You
+## Gameplay
+https://youtu.be/mFv6QyXXvts?si=u2nsII_01rX6MIaj
 ## Authors
 Contributors names and contact info
 
